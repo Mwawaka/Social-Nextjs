@@ -2,6 +2,21 @@
 # yarn lockfile v1
 
 
+"@fontsource/outfit@^4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/outfit/-/outfit-4.5.10.tgz#516a33189b5effe4fd3ead08fb871eebbe238580"
+  integrity sha512-wT8hmcueW5okOS8BQGARL0zdJOe032FctWr9df/0ixXpAiZ4WfnigRd3/ThhmmRwFgNxbjwqZ9bmO+5QDjaTbA==
+
+"@fontsource/space-grotesk@^4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/space-grotesk/-/space-grotesk-4.5.10.tgz#49c62a52e08c7c713ccf25ff58d9061d31048191"
+  integrity sha512-Ua+3NeVpUbVrF4F0I5posgZ0/SvpX0ijmwU4MI43cormzOP6r6Z09+BWwhS85+wMJsM+ravc+65fa/rqAZQ3wg==
+
+"@heroicons/react@^2.0.12":
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.0.12.tgz#7e5a16c82512f89a30266dd36f8b8465b3e3e216"
+  integrity sha512-FZxKh3i9aKIDxyALTgIpSF2t6V6/eZfF5mRu41QlwkX3Oxzecdm1u6dpft6PQGxIBwO7TKYWaMAYYL8mp/EaOg==
+
 "@next/env@12.3.1":
   version "12.3.1"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.3.1.tgz#18266bd92de3b4aa4037b1927aa59e6f11879260"
