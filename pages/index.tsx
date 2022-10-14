@@ -6,7 +6,14 @@ const Home = () => {
   return (
     <div className="font-outfit">
       <Topbar />
-    </div>
+      <div className="flex w-full">
+      <Sidebar/>
+      <Feedbar/>
+
+      <Rightbar/>
+
+      </div>
+      </div>
   );
 };
 
